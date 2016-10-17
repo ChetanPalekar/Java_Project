@@ -1,0 +1,12 @@
+Country: 		Shri Lanka
+Capital: 		Sri Jayawardenepura
+Courrency: 		Rupee
+Belongs in Continent:	Asia
+Population:		19.5 million
+Official Languages:	Sinhala & Tamil
+National Flag:		Lion Flag
+National Anthem:	"Sri Lanka Matha"
+National Flower:	Blue Water Lily
+Independence Day:	4th February
+Republic Day:		22TH May
+

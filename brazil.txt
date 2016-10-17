@@ -1,0 +1,16 @@
+Country: 		Brazil
+Capital: 		Brasilia
+Courrency: 		Real
+No. of States: 		34
+Belongs in Continent:	South America
+Population:		183,888,841
+Official Languages:	Portuguese
+National Flag:		Order and Progress
+National Anthem:	"Brazilian National Anthem"
+National Animal:	Giant Pandas
+National Flower:	Ipê-amarelo
+National Fruit:		Sabiá-laranjeira
+National Bird:		Red-crowned crane,Eurasian tree sparrow
+National Day:		7th September
+
+

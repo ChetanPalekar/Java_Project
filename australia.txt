@@ -1,0 +1,13 @@
+Country: 		Australia
+Capital: 		Canberra
+Courrency: 		Australian Dollar
+No. of States: 		6
+Belongs in Continent:	Asia
+Population:		21,575,341
+Languages:		English
+National Flag:		Flag of Australia
+National Anthem:	Advance Australia Fair
+National Animal:	Red kangaroo 
+National Flower:	Golden Wattle
+National Bird:		Emu
+Independence Day:	1st January

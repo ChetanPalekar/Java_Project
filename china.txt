@@ -1,0 +1,16 @@
+Country: 		China
+Capital: 		Beijing
+Courrency: 		Renminbi (RMB) Yuan
+No. of States: 		34
+Belongs in Continent:	Asia
+Population:		1.27bn
+Official Languages:	Standard Chinese, or Mandarin Chinese
+National Flag:		Five-star red flag
+National Anthem:	"March of the Volunteers"
+National Animal:	Giant Pandas
+National Flower:	Plum blossom
+National Fruit:		Fuzzy kiwifruit
+National Bird:		Red-crowned crane,Eurasian tree sparrow
+National Day:		October 1
+
+

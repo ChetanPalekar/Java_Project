@@ -1,0 +1,21 @@
+Country: 		India
+Capital: 		Delhi
+Courrency: 		Indian Rupee
+No. of States: 		29
+Union Territories: 	7
+Belongs in Continent:	Asia
+Other Names Of India:	Hindustan,Bharat
+Population:		1,210,193,422(2nd)
+Official Languages:	Hindi,English
+National Emblem:	Lion Capital of Ashoka at Sarnath
+National Flag:		Tricolor
+National Anthem:	"Vande Mataram"
+National Animal:	Tiger
+National Flower:	Lotus
+National Fruit:		Mango
+National Bird:		Peacock
+Motto:			"Satyameva Jayate"
+National Tree of India:	Banyan
+Independence Day:	15th August
+Republic Day:		26TH January
+

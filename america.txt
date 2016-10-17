@@ -1,0 +1,12 @@
+Country: 		USA
+Capital: 		Washington DC
+Courrency: 		US dollar
+No. of States: 		50
+Other Names:		United States of America,America
+Population:		318,892,103
+Languages:		English,Spanish
+National Emblem:	Great Seal of the United States
+National Flag:		The American flag, The Stars and Stripes
+National Anthem:	"The Star-Spangled Banner"
+National Animal:	Bald eagle
+National Flower:	Rose
